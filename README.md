@@ -6,13 +6,15 @@ This project was created following the REST architecture.
 
 #Tools used for this project:
 
--JAVA 8 for the back-end
+-JAVA 8 for the back-end;
 
--AngularJS for the front-end
+-AngularJS for the front-end;
 
--RESTful Web Services in Java (Jersey implementation of JAX-RS 2.1 API)
+-Bootstrap for the fron-end;
 
--Jetty Server
+-RESTful Web Services in Java (Jersey implementation of JAX-RS 2.1 API);
+
+-Jetty Server.
 
 #Usage:
 
