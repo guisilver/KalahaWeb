@@ -1,9 +1,10 @@
 package nl.gui.kalahaweb.model.domain;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 class KalahaTest {
 
