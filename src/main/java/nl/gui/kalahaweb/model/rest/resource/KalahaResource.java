@@ -19,7 +19,7 @@ import nl.gui.kalahaweb.model.domain.Kalaha;
  */
 @Path("kalaha")
 public class KalahaResource {
-	
+
 	@GET
 	public String getKalaha() {
 		return Kalaha.getKalahaJson();
@@ -28,7 +28,11 @@ public class KalahaResource {
 	@POST
 	@Path("/{pit}")
 	public void playKalaha(@PathParam("pit") Integer pit) throws IOException {
-		Kalaha.play(pit);
+		try {
+			Kalaha.play(pit);
+		} catch (IllegalArgumentException e) {
+			//
+		}
 	}
 
 	@PUT

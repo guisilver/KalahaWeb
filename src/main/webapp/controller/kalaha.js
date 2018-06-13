@@ -2,7 +2,7 @@ var KalahaModule = angular.module('kalahaModule', []);
 
 KalahaModule.controller("kalahaController", function($scope, $http) {
 
-	urlKalaha = 'http://localhost:8080/KalahaWeb/rest/kalaha';
+	urlKalaha = 'http://localhost:8080/rest/kalaha';
 	
 	$scope.message = '';
 	
