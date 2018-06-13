@@ -14,7 +14,7 @@ This project was created following the REST architecture.
 
 -Bootstrap for the fron-end;
 
--RESTful Web Services in Java (Jersey implementation of JAX-RS 2.1 API);
+-RESTful Web Services in Java (Jersey implementation of JAX-RS API);
 
 -Jetty Server.
 
