@@ -12,7 +12,7 @@ This project was created following the REST architecture.
 
 -AngularJS for the front-end;
 
--Bootstrap for the fron-end;
+-Bootstrap for the front-end;
 
 -RESTful Web Services in Java (Jersey implementation of JAX-RS API);
 
@@ -22,7 +22,7 @@ This project was created following the REST architecture.
 
 #Usage:
 
-In order to run the application, execute the following maven command inside the project's directory
+In order to run the application, execute the following maven command inside the project's directory.
 
 $ mvn jetty:run
 
