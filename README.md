@@ -16,7 +16,9 @@ This project was created following the REST architecture.
 
 -RESTful Web Services in Java (Jersey implementation of JAX-RS API);
 
--Jetty Server.
+-Jetty Server;
+
+-JUnit 5 for the tests.
 
 #Usage:
 
