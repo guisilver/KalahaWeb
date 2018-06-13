@@ -1,6 +1,7 @@
 Java assignment for Bol.com - Building a web application that runs the game Kalaha.
 
 Author: Guilherme Silveira Batista
+
 This project was created following the REST architecture.
 
 Tools used for this project:
