@@ -1,4 +1,6 @@
-#Java assignment for Bol.com - Building a web application that runs the game Kalaha.
+#Java assignment for Bol.com
+
+Building a web application that runs the game Kalaha.
 
 Author: Guilherme Silveira Batista
 
@@ -22,7 +24,7 @@ In order to run the application, execute the following maven command inside the 
 
 $ mvn jetty:run
 
-Access the deployed webapp at the following link
+Access the deployed webapp at the following link:
 
 http://localhost:8080/kalaha.html
 
