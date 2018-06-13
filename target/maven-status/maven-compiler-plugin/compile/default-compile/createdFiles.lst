@@ -1,0 +1,4 @@
+nl\gui\kalahaweb\model\domain\Player.class
+nl\gui\kalahaweb\model\domain\Board.class
+nl\gui\kalahaweb\model\rest\resource\KalahaResource.class
+nl\gui\kalahaweb\model\domain\Kalaha.class
